@@ -5,14 +5,15 @@ The npm version that was used during the testing : 8.1.1
 
 ## Steps to get the project running : 
 
-### git clone https://github.com/boyankrst123/AngularTask.git
+### `git clone https://github.com/boyankrst123/AngularTask.git`
 
-### cd AngularTask
+### `cd AngularTask`
 
-### npm install
+### `npm install`
 
-### npm start 
+### `npm start` 
 
-## After the project compiles the app can be accessed via browser usually at ###  http://localhost:4200/ 
+## After the project compiles the app can be accessed via browser usually at :
+###  `http://localhost:4200/` 
 
 Made by : Boyan Krastenyakov @ 11/3/2021
